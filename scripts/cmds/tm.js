@@ -16,11 +16,11 @@ module.exports = {
 		config: {
 				name: 'tm',
 				version: '2.1.0',
-				author: "ERROR-2.0", // not change credits
+				author: "ArYAN", // not change credits
 				countDown: 5,
 				role: 0,
 				shortDescription: 'Generate temporary email (auto get inbox)',
-				category: 'generate',
+				category: '𝗚𝗠𝗔𝗜𝗟',
 				guide: {
 						en: '[tempmail]'
 				}
